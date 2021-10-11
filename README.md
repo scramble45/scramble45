@@ -1,8 +1,6 @@
  <h1 align="center">Hi 👋, I'm Rowan</h1>
 <h3 align="center">I'm a software engineer, a maker and infosec enthusiast.</h3>
 
-<p align="left"> <a href="https://twitter.com/r0w" target="blank"><img src="https://img.shields.io/twitter/follow/r0w?logo=twitter&style=for-the-badge" alt="r0w" /></a> </p>
-
 - 📫 How to reach me **scramble@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
