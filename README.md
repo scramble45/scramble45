@@ -1,12 +1,9 @@
  <h1 align="center">Hi 👋, I'm Rowan</h1>
 <h3 align="center">I'm a software engineer, a maker and infosec enthusiast.</h3>
 
-- 📫 How to reach me **scramble@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/r0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r0w" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rowan-h-43606553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rowan-h-43606553" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
